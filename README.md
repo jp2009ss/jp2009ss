@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Estatísticas gerais -->
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=jp2009ss&show_icons=true&theme=dark)
+
 
 <!-- Linguagens mais usadas -->
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jp2009ss&layout=compact&theme=dark)
