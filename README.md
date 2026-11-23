@@ -1,4 +1,7 @@
 ## Hi there 👋
 
 <!-- Linguagens mais usadas -->
-![Linguagens](github-readme-stats-93fko4ruh-jp2009ss.vercel.app)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jp2009ss&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jp2009ss&theme=github_dark" width="49%" />
+</p>
